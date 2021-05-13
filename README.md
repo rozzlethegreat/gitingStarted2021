@@ -6,6 +6,6 @@
 
 Statement | Truth/Lie
 ------------------|-----------------
-My placenta is in a fridge in London | Maybe
-My father is in the guiness world records | Maybe
-I struggle swimming in pools due to my fear of sharks | Maybe
+My placenta is in a fridge in London | True
+My father is in the guiness world records | True
+I struggle swimming in pools due to my fear of sharks | Lie
