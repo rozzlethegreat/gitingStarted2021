@@ -2,7 +2,7 @@
 
 ## 12osalind
 
-
+### 1 is a lie... 2 are ture
 
 Statement | Truth/Lie
 ------------------|-----------------
